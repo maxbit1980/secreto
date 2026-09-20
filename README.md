@@ -9,10 +9,10 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/Licença-MIT-3fb950?style=for-the-badge)](#-licença)
+[![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-3fb950?style=for-the-badge)](#-licen%C3%A7a)
 [![Sem Servidor](https://img.shields.io/badge/Servidor-Nenhum-ff2d55?style=for-the-badge)](#-privacidade)
 
-[🌐 Acessar Web](#-versão-web) · [📱 Baixar APK](#-versão-android-apk) · [💚 Apoiar o Projeto](#-apoie-o-projeto)
+[🌐 Acessar Web](#-vers%C3%A3o-web) · [📱 Baixar APK](#-vers%C3%A3o-android-apk) · [💚 Apoiar o Projeto](#-apoie-o-projeto)
 
 </div>
 
@@ -34,17 +34,34 @@ Todo o armazenamento é feito **localmente no dispositivo** (via `localStorage`)
 
 Acesse direto pelo navegador, sem instalar nada:
 
-👉 **[Abrir SECRETO no navegador](https://maxbit1980.github.io/secreto/)**
+<p align="center">
+  <a href="https://maxbit1980.github.io/secreto/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_ABRIR_NO_NAVEGADOR-1e90ff?style=for-the-badge&logoColor=white" alt="Abrir no navegador">
+  </a>
+</p>
 
-> *Funciona em qualquer dispositivo: celular, tablet ou desktop.*
+> 💡 **Abre em nova aba.** Funciona em qualquer dispositivo: celular, tablet ou desktop.
+
+---
 
 ### 📱 Versão Android (APK)
 
 Baixe o arquivo `.apk` e instale no seu celular:
 
-👉 **[Baixar APK (v1.0.0)](https://github.com/maxbit1980/secreto/releases/latest)**
+<p align="center">
+  <a href="https://github.com/maxbit1980/secreto/releases/download/v1.0.0/secreto.apk">
+    <img src="https://img.shields.io/badge/📱_BAIXAR_APK_v1.0.0-ff2d55?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK">
+  </a>
+</p>
 
-> ⚠️ **Instalação:** ao abrir o APK, o Android pode exibir um aviso de "fonte desconhecida". Isso é normal para apps distribuídos fora da Play Store. Basta habilitar a permissão de instalação.
+> ⚠️ **Instalação:** ao abrir o APK, o Android pode exibir um aviso de "fonte desconhecida". Isso é normal para apps distribuídos fora da Play Store. Basta habilitar a permissão de instalação no seu aparelho.
+
+---
+
+**Links diretos (para copiar/colar):**
+
+- 🌐 **Web:** `https://maxbit1980.github.io/secreto/`
+- 📱 **APK:** `https://github.com/maxbit1980/secreto/releases/download/v1.0.0/secreto.apk`
 
 ---
 
@@ -169,6 +186,7 @@ adb install secreto.apk
 Este app é **gratuito, sem anúncios e sem coleta de dados**. Se ele foi útil pra você, considere apoiar com uma doação simbólica via PIX — qualquer valor **a partir de R$ 1,00** ajuda a manter o projeto vivo.
 
 **Chave PIX (aleatória):**
+
 ```
 bf60e9ea-dbd3-43f1-8a64-7dbdb5191a71
 ```
